@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../Login_Page/Images/icon.png">
+    <link rel="stylesheet" href="../Login_Page/CSS/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />        
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <div class="login_box">
+                <h1>LOGIN</h1>
+                <form action="/login" method="post" onsubmit="return validateLogin()">
+                    <input type="email" id="login_email" placeholder="Email" required>
+                    <input type="password" id="login_password" placeholder="Password" required>
+                    <button type="submit" class="b1" onclick="result()">Login</button><br>
+                    <p>Also login using:</p>
+                    <span class="icon1">
+                        <a href="http://www.facebook.com/login" target="_blank"><i class="bi bi-facebook"></i></a>
+                    </span>
+                    <span class="icon2">
+                        <a href="http://www.accounts.google.com/login" target="_blank"><i class="bi bi-google"></i></a>
+                    </span><br>
+                </form>
+                <div class="content">
+                    <p>If you don't have an account, please create account</p>
+                    <button class="b2" onclick="toggleForms('signup')">Create Account</button>
+                </div>
+            </div>
+            <div class="sign_box" style="display: none;">
+                <h1>CREATE ACCOUNT</h1>
+                <form action="/signup" onsubmit="return validateSignup()">
+                    <input type="text" id="signup_name" placeholder="Name" required>
+                    <input type="email" id="signup_email" placeholder="Email" required>
+                    <input type="password" id="signup_password" placeholder="Password" required>
+                    <input type="password" id="signup_confirm_password" placeholder="Confirm Password" required>
+                    <button type="submit" class="b1">Create</button><br>
+                    <p>Also signup using:</p>
+                    <span class="icon1">
+                        <a href="http://www.facebook.com/login" target="_blank"><i class="bi bi-facebook"></i></a>
+                    </span>
+                    <span class="icon2">
+                        <a href="http://www.accounts.google.com/login" target="_blank"><i class="bi bi-google"></i></a>
+                    </span><br>
+                </form>
+                <div class="content">
+                    <p>Already have an account, please login</p>
+                    <button class="b2" onclick="toggleForms('login')">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <script src="../Login_Page/JavaScript/script.js"></script>
+</body>
+</html>
