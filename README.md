@@ -5,5 +5,5 @@
   https://dineshkumarc-simple-login-page.netlify.app/ 
 <hr>
 <h1>Digital Clock</h1><br>
-dineshkumarc-digital-clock.netlify.app/
+  https://dineshkumarc-digital-clock.netlify.app/
 <hr>
