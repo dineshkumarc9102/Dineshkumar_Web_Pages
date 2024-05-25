@@ -1,9 +1,13 @@
-<h1>Age Calculator</h1><br>
+<h1>DEMO LINKS</h1>
+<h2>Age Calculator</h2><br>
   https://dineshkumarc-age-calculator.netlify.app/ 
 <hr>
-<h1>Login Page</h1><br>
+<h2>Login Page</h2><br>
   https://dineshkumarc-simple-login-page.netlify.app/ 
 <hr>
-<h1>Digital Clock</h1><br>
+<h2>Digital Clock</h2><br>
   https://dineshkumarc-digital-clock.netlify.app/
+<hr>
+<h2>Mini Calendar</h2><br>
+  https://dineshkumarc-mini-calendar.netlify.app/
 <hr>
