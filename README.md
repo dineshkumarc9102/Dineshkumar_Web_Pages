@@ -12,7 +12,7 @@
   https://dineshkumarc-mini-calendar.netlify.app/
 <hr>
 <h2>ToDo App</h2><br>
-  https://dineshkumarc-mini-calendar.netlify.app/
+  https://dineshkumarc-todo-app-react.netlify.app/
 <hr>
 <h2>Tic Tac Toe Game</h2><br>
   https://dineshkumarc-tic-tac-toe-game-react.netlify.app/
