@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: linear-gradient(0deg, rgba(75, 3, 99, 0.5) 0%, rgba(75, 3, 99, 0.5) 16.667%,rgba(82, 11, 100, 0.5) 16.667%, rgba(82, 11, 100, 0.5) 33.334%,rgba(90, 19, 101, 0.5) 33.334%, rgba(90, 19, 101, 0.5) 50.001%,rgba(97, 28, 102, 0.5) 50.001%, rgba(97, 28, 102, 0.5) 66.668%,rgba(105, 36, 103, 0.5) 66.668%, rgba(105, 36, 103, 0.5) 83.335%,rgba(112, 44, 104, 0.5) 83.335%, rgba(112, 44, 104, 0.5) 100.002%),linear-gradient(90deg, rgb(128, 87, 179) 0%, rgb(128, 87, 179) 16.667%,rgb(107, 87, 164) 16.667%, rgb(107, 87, 164) 33.334%,rgb(86, 88, 149) 33.334%, rgb(86, 88, 149) 50.001%,rgb(65, 88, 133) 50.001%, rgb(65, 88, 133) 66.668%,rgb(44, 89, 118) 66.668%, rgb(44, 89, 118) 83.335%,rgb(23, 89, 103) 83.335%, rgb(23, 89, 103) 100.002%);  font-family: poppins;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
