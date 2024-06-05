@@ -17,6 +17,9 @@
 <h2>Quiz App</h2><br>
   https://dineshkumarc-quiz-app-react.netlify.app/
 <hr>
+<h2>Random Password Generator</h2><br>
+  https://dineshkumarc-randompassword-generator.netlify.app/
+<hr>
 <h2>Tic Tac Toe Game</h2><br>
   https://dineshkumarc-tic-tac-toe-game-react.netlify.app/
 <hr>
