@@ -5,6 +5,9 @@
 <h2>Digital Clock</h2><br>
   https://dineshkumarc-digital-clock.netlify.app/
 <hr>
+<h2>Image Uplode</h2><br>
+  https://dineshkumarc-image-upload.netlify.app/
+<hr>
 <h2>Login Page</h2><br>
   https://dineshkumarc-simple-login-page.netlify.app/ 
 <hr>
@@ -19,6 +22,9 @@
 <hr>
 <h2>Random Password Generator</h2><br>
   https://dineshkumarc-randompassword-generator.netlify.app/
+<hr>
+<h2>Text To Voice</h2><br>
+  https://dineshkumarc-text-to-voice.netlify.app/
 <hr>
 <h2>Tic Tac Toe Game</h2><br>
   https://dineshkumarc-tic-tac-toe-game-react.netlify.app/
