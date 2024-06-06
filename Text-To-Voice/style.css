@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(0deg, rgb(82, 82, 82),rgb(99, 99, 99)),linear-gradient(45deg, rgb(12, 3, 124) 0%, rgb(12, 3, 124) 63%,rgb(16, 35, 140) 63%, rgb(16, 35, 140) 68%,rgb(19, 67, 156) 68%, rgb(19, 67, 156) 77%,rgb(23, 100, 171) 77%, rgb(23, 100, 171) 86%,rgb(26, 132, 187) 86%, rgb(26, 132, 187) 92%,rgb(30, 164, 203) 92%, rgb(30, 164, 203) 100%),linear-gradient(135deg, rgb(12, 3, 124) 0%, rgb(12, 3, 124) 63%,rgb(16, 35, 140) 63%, rgb(16, 35, 140) 68%,rgb(19, 67, 156) 68%, rgb(19, 67, 156) 77%,rgb(23, 100, 171) 77%, rgb(23, 100, 171) 86%,rgb(26, 132, 187) 86%, rgb(26, 132, 187) 92%,rgb(30, 164, 203) 92%, rgb(30, 164, 203) 100%); background-blend-mode:overlay,overlay,normal;    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.hero h1{
+    color:#fff;
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+.hero h1 span{
+    color: #ff2963;
+}
+textarea{
+    width: 600px;
+    height: 250px;
+    background: transparent;
+    color: #fff;
+    font-size: 15px;
+    border: 3px solid #000;
+    outline: 0;
+    padding: 20px;
+    border-radius: 10px;
+    resize: none;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+textarea::placeholder{
+    font-size: 16px;
+    color: #ddd;
+}
+.row{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+button{
+    background: #ff2963;
+    color: #fff;
+    font-style: 16px;
+    padding: 10px 30px;
+    border-radius: 35px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+button img{
+    width: 16px;
+    margin-right: 10px;
+}
+select{
+    flex: 1;
+    color: #fff;
+    background: #403d84;
+    height: 50px;
+    padding: 0 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 35px;
+    appearance: none;
+    background-image: url(dropdown.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position-x: calc(100% - 20px);
+    background-position-y: 20px;
+}
