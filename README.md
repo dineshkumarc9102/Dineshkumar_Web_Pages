@@ -8,6 +8,9 @@
 <h2>Digital Clock</h2><br>
   https://dineshkumarc-digital-clock.netlify.app/
 <hr>
+<h2>Drag and Drop Image Uploader</h2><br>
+  https://dineshkumarc-drag-drop-image-uploader.netlify.app/
+<hr>
 <h2>Image Uplode</h2><br>
   https://dineshkumarc-image-upload.netlify.app/
 <hr>
