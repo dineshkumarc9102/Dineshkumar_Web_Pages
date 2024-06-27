@@ -23,6 +23,9 @@
 <h2>Password Strength Indicator</h2><br>
   https://dineshkumarc-pass-strength-indicator.netlify.app/
 <hr>
+<h2>Profile Card</h2><br>
+  https://dineshkumarc-profile-card.netlify.app/
+<hr>
 <h2>Quiz App</h2><br>
   https://dineshkumarc-quiz-app-react.netlify.app/
 <hr>
