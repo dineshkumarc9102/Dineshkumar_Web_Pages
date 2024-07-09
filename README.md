@@ -1,5 +1,9 @@
 <h1>DEMO LINKS</h1>
 
+<h2>Advice Generator</h2><br>
+https://dineshkumarc-advice-generator.netlify.app/
+<hr>
+
 <h2>Age Calculator</h2><br>
   https://dineshkumarc-age-calculator.netlify.app/ 
 <hr>
