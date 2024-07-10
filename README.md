@@ -8,6 +8,10 @@ https://dineshkumarc-advice-generator.netlify.app/
   https://dineshkumarc-age-calculator.netlify.app/ 
 <hr>
 
+<h2>BMI Calculator</h2><br>
+https://dineshkumarc-bmi-calculator.netlify.app/
+<hr>
+
 <h2>Contact Form</h2><br>
   https://dineshkumarc-contact-form.netlify.app/ 
 <hr>
