@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(45deg, rgba(47, 120, 188,0.2) 0%, rgba(47, 120, 188,0.2) 16.667%,rgba(32, 103, 177,0.2) 16.667%, rgba(32, 103, 177,0.2) 33.334%,rgba(62, 138, 199,0.2) 33.334%, rgba(62, 138, 199,0.2) 50.001%,rgba(25, 94, 171,0.2) 50.001%, rgba(25, 94, 171,0.2) 66.668%,rgba(40, 112, 182,0.2) 66.668%, rgba(40, 112, 182,0.2) 83.335%,rgba(55, 129, 193,0.2) 83.335%, rgba(55, 129, 193,0.2) 100.002%),linear-gradient(135deg, rgba(47, 120, 188,0.2) 0%, rgba(47, 120, 188,0.2) 16.667%,rgba(32, 103, 177,0.2) 16.667%, rgba(32, 103, 177,0.2) 33.334%,rgba(62, 138, 199,0.2) 33.334%, rgba(62, 138, 199,0.2) 50.001%,rgba(25, 94, 171,0.2) 50.001%, rgba(25, 94, 171,0.2) 66.668%,rgba(40, 112, 182,0.2) 66.668%, rgba(40, 112, 182,0.2) 83.335%,rgba(55, 129, 193,0.2) 83.335%, rgba(55, 129, 193,0.2) 100.002%),linear-gradient(0deg, rgba(47, 120, 188,0.2) 0%, rgba(47, 120, 188,0.2) 16.667%,rgba(32, 103, 177,0.2) 16.667%, rgba(32, 103, 177,0.2) 33.334%,rgba(62, 138, 199,0.2) 33.334%, rgba(62, 138, 199,0.2) 50.001%,rgba(25, 94, 171,0.2) 50.001%, rgba(25, 94, 171,0.2) 66.668%,rgba(40, 112, 182,0.2) 66.668%, rgba(40, 112, 182,0.2) 83.335%,rgba(55, 129, 193,0.2) 83.335%, rgba(55, 129, 193,0.2) 100.002%),linear-gradient(90deg, rgb(136, 16, 29),rgb(186, 11, 192));
+}
+h1{
+  font-weight: 800;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #2980b9;
+}
+span{
+  color: #7eba89;
+}
+.container{
+  width: 800px;
+  height: 500px;
+  background: #ffffff;
+  display: flex;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.left{
+  width: 350px;
+  background-image: url(assets/Calculator-bro.svg);
+  background-repeat: no-repeat;
+  background-position: center ;
+}
+.right{
+  flex: 1;
+  padding: 50px 40px;
+}
+label{
+  display: block;
+  margin-bottom: 5px;
+  color: #888;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  font-size: 18px;
+}
+button{
+  cursor: pointer;
+  background: #2980b9;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 16px;
+  margin: 20px 0;
+  transition: background-color 0.3s;
+}
+button:hover{
+  background: #42789c;
+}
+.right button:nth-of-type(2){
+  background-color: rgb(255, 0, 0);
+  margin-left: 20px;
+}
+.right button:nth-of-type(2):hover{
+  background-color: rgb(203, 31, 31);
+
+}
+.result{
+  padding: 10px;
+  border: 1px solid #555;
+  border-radius: 20px;
+}
+.result p{
+  margin: 10px 0;
+  color: #555;
+  font-weight: bold;
+  font-size: 16px;
+}
+.result p span{
+  color: #7eba89;
+  font-size: 18px;
+  border-bottom: 1px solid #2980b9;
+}
+.error{
+  color: red;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
