@@ -16,6 +16,10 @@ https://dineshkumarc-bmi-calculator.netlify.app/
   https://dineshkumarc-contact-form.netlify.app/ 
 <hr>
 
+<h2>Currency Converter</h2><br>
+https://dineshkumarc-currency-converter.netlify.app/
+<hr>
+
 <h2>Digital Clock</h2><br>
   https://dineshkumarc-digital-clock.netlify.app/
 <hr>
