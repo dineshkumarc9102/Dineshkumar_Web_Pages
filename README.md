@@ -21,7 +21,7 @@ https://dineshkumarc-currency-converter.netlify.app/
 <hr>
 
 <h2>Digital Clock</h2><br>
-  https://dineshkumarc-digital-clock.netlify.app/
+  https://dineshkumarc-digital-clock.netlify.app/ <br>
   https://dineshkumarc-digital-clock-react.netlify.app/
 <hr>
 
