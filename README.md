@@ -58,7 +58,8 @@ https://dineshkumarc-currency-converter.netlify.app/
 <hr>
 
 <h2>Random Password Generator</h2><br>
-  https://dineshkumarc-randompassword-generator.netlify.app/
+  https://dineshkumarc-randompassword-generator.netlify.app/ <br>
+  https://dineshkumarc-password-generator-react.netlify.app/
 <hr>
 
 <h2>Text To Voice</h2><br>
