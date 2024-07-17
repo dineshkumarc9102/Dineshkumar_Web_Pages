@@ -12,6 +12,11 @@ https://dineshkumarc-advice-generator.netlify.app/
 https://dineshkumarc-bmi-calculator.netlify.app/
 <hr>
 
+<h2>Calendar</h2><br>
+  https://dineshkumarc-mini-calendar.netlify.app/
+  https://dineshkumarc-monthly-sheet-calender.netlify.app/
+<hr>
+
 <h2>Contact Form</h2><br>
   https://dineshkumarc-contact-form.netlify.app/ 
 <hr>
@@ -29,16 +34,16 @@ https://dineshkumarc-currency-converter.netlify.app/
   https://dineshkumarc-drag-drop-image-uploader.netlify.app/
 <hr>
 
+<h2>FAQ</h2><br>
+https://dineshkumarc-faq.netlify.app/
+<hr>
+
 <h2>Image Uplode</h2><br>
   https://dineshkumarc-image-upload.netlify.app/
 <hr>
 
 <h2>Login Page</h2><br>
   https://dineshkumarc-simple-login-page.netlify.app/ 
-<hr>
-
-<h2>Mini Calendar</h2><br>
-  https://dineshkumarc-mini-calendar.netlify.app/
 <hr>
 
 <h2>Password Strength Indicator</h2><br>
