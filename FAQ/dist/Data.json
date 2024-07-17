@@ -1,0 +1,63 @@
+[
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "question": "What is a component in React?",
+      "answer": "A component in React is a reusable piece of UI."
+    },
+    {
+      "question": "What is state in React?",
+      "answer": "State is a built-in object that stores property values that belong to the component."
+    },
+    {
+      "question": "What are props in React?",
+      "answer": "Props are arguments passed into React components, allowing data to be passed from one component to another."
+    },
+    {
+      "question": "What is JSX?",
+      "answer": "JSX stands for JavaScript XML, a syntax extension for JavaScript used in React to describe UI elements."
+    },
+    {
+      "question": "How do you create a React component?",
+      "answer": "React components can be created using either function or class syntax. Functional components use a function to return JSX, while class components use the class syntax with a render method."
+    },
+    {
+      "question": "What is the virtual DOM?",
+      "answer": "The virtual DOM is a concept where a virtual representation of the real DOM is kept in memory and synced with the real DOM using libraries like ReactDOM."
+    },
+    {
+      "question": "What is a hook in React?",
+      "answer": "Hooks are special functions in React that allow you to use state and other React features in functional components."
+    },
+    {
+      "question": "What is useState?",
+      "answer": "useState is a hook that allows you to add React state to functional components."
+    },
+    {
+      "question": "What is useEffect?",
+      "answer": "useEffect is a hook that lets you perform side effects in functional components, such as data fetching or subscribing to events."
+    },
+    {
+      "question": "What is a higher-order component (HOC)?",
+      "answer": "A higher-order component is a function that takes a component and returns a new component, enhancing the original component with additional functionality."
+    },
+    {
+      "question": "What is context in React?",
+      "answer": "Context provides a way to pass data through the component tree without having to pass props down manually at every level."
+    },
+    {
+      "question": "What is Redux?",
+      "answer": "Redux is a state management library for JavaScript applications, commonly used with React to manage the state of the application."
+    },
+    {
+      "question": "What is the difference between React and React Native?",
+      "answer": "React is a library for building web applications, while React Native is a framework for building mobile applications using React."
+    },
+    {
+      "question": "What is the role of keys in React?",
+      "answer": "Keys help React identify which items have changed, are added, or are removed, enhancing the efficiency of the update process."
+    }
+  ]
+  
